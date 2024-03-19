@@ -4,3 +4,6 @@ hlo
 how are you
 bye
 task1.2
+my name
+task
+
